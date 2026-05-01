@@ -1,5 +1,4 @@
 # 🏥 Clinic Appointment System
-**Unit 06 — Java OOP Project | Medium Level**
 
 ---
 
