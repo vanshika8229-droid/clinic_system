@@ -124,14 +124,7 @@ java -cp out Main
 ## Data Persistence
 
 Data is saved to `clinic_data.dat` in the working directory using Java serialization.  
-The file is auto-created on first run with seed data (3 doctors + schedules + 2 patients).
+
 
 ---
 
-## Why This Project Fits Unit 06
-
-- Demonstrates **OOP** with encapsulated model classes, inheritance-ready structure
-- **Layered architecture**: model → DAO → service → UI (no SQL in UI handlers)
-- **Java Swing** for full desktop GUI with event-driven programming
-- **Conflict-free scheduling** is the core algorithmic challenge
-- Validation at service layer — not just UI popups
